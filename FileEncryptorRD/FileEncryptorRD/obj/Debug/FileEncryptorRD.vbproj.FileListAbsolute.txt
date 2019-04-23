@@ -1,0 +1,10 @@
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\bin\Debug\FileEncryptorRD.dll
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\bin\Debug\FileEncryptorRD.pdb
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\bin\Debug\FileEncryptorRD.xml
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.Resources.resources
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.dll
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.xml
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.pdb
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\FileEncryptorRD\FileEncryptorRD\obj\Debug\FileEncryptorRD.vbprojResolveAssemblyReference.cache
